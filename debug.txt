@@ -1,3 +1,1 @@
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Wa1den-jy/Historical-Time-Series-.git/'
+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
